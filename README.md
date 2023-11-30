@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student Engineer at N Progressive School<br>He participated in the development of virtual payment services such as YSPay and as a speaker for the presentation of a web application called Next NJR Feedback.
+I am an engineer.
 
 
 # 💻 Tech Stack:
