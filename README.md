@@ -1,5 +1,7 @@
 # 💫 About Me:
 I’m Taku Mabuchi. I'm a teenager and developing apps for learning English vocabulary.
+
+# 🏆Trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=tak0m0&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 💻 Tech Stack:
